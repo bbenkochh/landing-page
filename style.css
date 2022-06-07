@@ -13,24 +13,23 @@ body {
 
 .header{
     background-color: #1f2937;
-    padding: 30px;
     color: white;
-    font-size: 30px;
     display: flex;
-    flex-direction: column;
+    padding: 50px;
+    justify-content: space-between;
 }
 
-ul {
+.header-links {
     list-style: none;
     display: flex;
     font-size: 16px;
     margin: 0;
     padding: 0;
+    align-items: center;
     gap: 16px;
-    justify-content: flex-end;
 }
 
 h1 {
     margin: 0;
-    
+    font-size: 24px;
 }
