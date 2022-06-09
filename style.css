@@ -37,3 +37,59 @@ body, html {
     gap: 16px;
     justify-self: flex-end;
 }
+p {
+    text-align: center;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.card.hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+img {
+    border-radius: 10px 10px 10px 10px;
+}
+
+h1 {
+    font-size: 48px;
+    font-style: bold;
+}
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+}
+
+main {
+    display: flex;
+    justify-content: space-evenly
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    padding: 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+.thor {
+    align-self: flex-end;
+    font-style: 700;
+}
