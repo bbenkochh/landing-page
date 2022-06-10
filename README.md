@@ -1,4 +1,11 @@
-This is the Landing page project README file
-I will update it as I move along
+This is The Odin Project's second assignment. Its goal is to design a landing page. 
 
-Have a nice day :)
+SKills Used: 
+    HTML
+    CSS
+    Flexbox
+
+
+live landing page: 
+
+Have a nice day and thanks for looking :)
