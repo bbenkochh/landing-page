@@ -6,6 +6,6 @@ SKills Used:
     Flexbox
 
 
-live landing page: 
+live landing page: https://bbenkochh.github.io/landing-page/
 
 Have a nice day and thanks for looking :)
