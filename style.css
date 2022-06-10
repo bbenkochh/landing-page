@@ -111,17 +111,27 @@ main {
     background-color: #3882F6;
     display: flex;
     color: white;
+    padding: 50px;
+    border-radius: 12px;
+    height: 80px;
+    justify-content: space-around;
+    align-items: center;
     flex-direction: column;
 }
 
 .bold-text {
     font-size: 32px;
     font-weight: bold;
-    padding: 25px 25px 5px 25px
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
 }
 
 .text {
-    padding: 5px 25px 25px 25px
+    margin-top: 5px;
+    padding: 0;
+    vertical-align: baseline;
+    align-self: center;
 }
 
 button {
@@ -135,4 +145,16 @@ button {
     font-size: 16px;
     border-radius: 10px;
     width: 125px;
+}
+
+.button2 {
+    margin-top: 12px;
+
+}
+
+footer{
+    text-align: center;
+    padding: 30px;
+    background-color: #1F2937;
+    color: white;
 }
